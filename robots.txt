@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohvahjahz.thymoljs.org/sitemap.xml
